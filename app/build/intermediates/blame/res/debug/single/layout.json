@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/jst/AndroidProjects/ThingsV3/app/build/intermediates/res/merged/debug/layout/activity_things.xml",
+        "source": "/home/jst/AndroidProjects/ThingsV3/app/src/main/res/layout/activity_things.xml"
+    },
+    {
+        "merged": "/home/jst/AndroidProjects/ThingsV3/app/build/intermediates/res/merged/debug/layout/fragment_things.xml",
+        "source": "/home/jst/AndroidProjects/ThingsV3/app/src/main/res/layout/fragment_things.xml"
+    },
+    {
+        "merged": "/home/jst/AndroidProjects/ThingsV3/app/build/intermediates/res/merged/debug/layout/list_item.xml",
+        "source": "/home/jst/AndroidProjects/ThingsV3/app/src/main/res/layout/list_item.xml"
+    }
+]

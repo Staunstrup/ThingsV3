@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Things</string>
+    <string name="list_things">List of things</string>
+    <string name="headline">Last two things added:</string>
+    <string name="heading_create">Create new thing</string>
+    <string name="list_button">List of all things</string>
+    <string name="what_thing">What thing?</string>
+    <string name="where">Where?</string>
+</resources>
